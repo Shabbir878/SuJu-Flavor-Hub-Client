@@ -1,33 +1,4 @@
-// "use client";
-
-// import { useParams } from "next/navigation";
-
-// import RecipeDetailCard from "@/src/components/Card/RecipeDetailCard";
-// import { useGetSingleRecipeQuery } from "@/src/redux/features/recipe/recipeApi";
-
-// const SingleRecipe = () => {
-//   const { singleRecipe: recipeId } = useParams();
-//   const { data: singleRecipe } = useGetSingleRecipeQuery(recipeId);
-
-//   console.log(recipeId);
-//   const recipeData = singleRecipe?.data[0];
-
-//   return (
-//     <div className="h-[90vh]">
-//       <div className="flex h-full justify-center items-center">
-//         {recipeData ? (
-//           <RecipeDetailCard recipe={recipeData} />
-//         ) : (
-//           <p>Loading...</p> // Handle loading or empty state
-//         )}
-//       </div>
-//     </div>
-//   );
-// };
-
-// export default SingleRecipe;
-
-"use client"; // Ensure this component is a client component
+"use client";
 
 import { useParams } from "next/navigation";
 
