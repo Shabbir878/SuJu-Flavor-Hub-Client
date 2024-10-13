@@ -1,0 +1,38 @@
+[
+  {
+    "_id": { "$oid": "652713f8b231c29d1f9b8c11" },
+    "name": "Suju",
+    "email": "suju@gmail.com",
+    "profileImg": "https://s3.zerochan.net/240/43/10/3970543.jpg",
+    "password": "suju8788",
+    "role": "admin",
+    "bio": "Responsible for platform management and user support.",
+    "follower": 0,
+    "following": 0,
+    "premium": false,
+    "premiumLastDate": "",
+    "payment": 0,
+    "isBlocked": false,
+    "isDeleted": false,
+    "post": [],
+    "pre": []
+  },
+  {
+    "_id": { "$oid": "652713f8b231c29d1f9b8c12" },
+    "name": "John Doe",
+    "email": "johndoe@gmail.com",
+    "profileImg": "https://images2.fanpop.com/images/photos/7900000/JOHN-DOE-john-doe-7969094-2087-2560.jpg",
+    "password": "suju8788",
+    "role": "user",
+    "bio": "Gardening enthusiast and plant lover.",
+    "follower": 0,
+    "following": 0,
+    "premium": false,
+    "premiumLastDate": "",
+    "payment": 0,
+    "isBlocked": false,
+    "isDeleted": false,
+    "post": [],
+    "pre": []
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "cSpell.words": [
+    "clsx",
+    "hybration",
+    "nextui",
+    "setmax",
+    "setmin",
+    "Skele",
+    "sonner",
+    "suju",
+    "Swal",
+    "sweetalert",
+    "Upvote"
+  ]
+}
