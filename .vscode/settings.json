@@ -2,8 +2,11 @@
   "typescript.tsdk": "node_modules/typescript/lib",
   "cSpell.words": [
     "clsx",
+    "commitlintrc",
     "hybration",
+    "lintstagedrc",
     "nextui",
+    "plopfile",
     "setmax",
     "setmin",
     "Skele",
@@ -11,6 +14,7 @@
     "suju",
     "Swal",
     "sweetalert",
+    "tsup",
     "Upvote"
   ]
 }
