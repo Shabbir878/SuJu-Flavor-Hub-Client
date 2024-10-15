@@ -151,7 +151,7 @@ PAYMENT_VERIFY_URL=aamarpay_payment_verify_url
 ### Start the Backend Server:
 
 ```bash Copy code
-npm start dev
+npm run dev
 ```
 
 ### Frontend Configuration:
